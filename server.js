@@ -22,5 +22,4 @@ const server = http.createServer((req, res) => {
 
 server.listen(0, ()=> {
     console.log(`Server listening on port ${server.address().port}`)
-    console.log(`http://localhost:${server.address().port}`)
 })

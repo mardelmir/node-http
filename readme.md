@@ -18,7 +18,7 @@ Crear un archivo llamado `server.js` (o similar) que utilice el módulo http par
 
 Importar el módulo de datos `data.js` en el archivo del servidor para acceder al objeto con la información de la página web.
 
-4. Configurar la Respuesta del Servidor:
+4. Configurar la Respuesta del Servidor:"
 
 Configurar el servidor para responder con un documento HTML. Puedes utilizar el método `res.end()` para escribir dentro tu HTML (con su !DOCTYPE, H1, H2... lo que creas que es necesario)con la datos de `data.js`
 
